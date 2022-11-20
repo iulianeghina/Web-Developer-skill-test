@@ -1,0 +1,10 @@
+ input {
+        text-align: right;
+      }
+      button {
+        display: block;
+        margin: 10px 0;
+      }
+      div {
+        font-family: monospace;
+      }
